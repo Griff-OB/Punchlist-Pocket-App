@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    FileProvider reads these attributes WITHOUT the android: namespace
+    (via getAttributeValue(null, "name") / getAttributeValue(null, "path")).
+    Using android:name / android:path silently resolves to empty, which throws
+    "Name must not be empty" when the camera path is built. Keep them bare.
+-->
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <files-path
+        name="job_images"
+        path="job_images/" />
+    <files-path
+        name="markup_images"
+        path="markup_images/" />
+    <files-path
+        name="pdf_reports"
+        path="pdf_reports/" />
+</paths>

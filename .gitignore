@@ -32,3 +32,8 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Bad Windows reserved files
+nul
+app/nul
+**/nul

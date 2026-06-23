@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pl_primary">#1F6FEB</color>
+    <color name="pl_primary_dark">#0D4DA3</color>
+    <color name="pl_accent">#FF7A00</color>
+    <color name="pl_background">#F7F8FA</color>
+    <color name="pl_surface">#FFFFFF</color>
+</resources>
