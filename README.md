@@ -6,6 +6,26 @@ The app helps users create job folders, track unfinished work, attach photos, or
 
 ---
 
+## App Screenshots
+
+### Home Screen
+
+![Home Screen](docs/screenshots/HomeScreen.png)
+
+### Client / Job Page
+
+![Client Page](docs/screenshots/Client_Page.png)
+
+### Client Form
+
+![Client Form](docs/screenshots/Client_Form.png)
+
+### PDF Report Page
+
+![PDF Report Page](docs/screenshots/PDF_Report_Page.png)
+
+---
+
 ## Project Overview
 
 Many construction punch-list tools are expensive, cloud-based, or overbuilt for small jobs. PunchList Pocket was designed as a lightweight mobile alternative focused on simplicity, speed, and offline usability.
